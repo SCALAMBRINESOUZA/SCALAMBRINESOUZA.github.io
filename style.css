@@ -11,6 +11,11 @@ h1{
     font-family: 'DotGothic16', sans-serif;;
 }
 
+a {
+    text-decoration: none;
+    
+}
+
 
 #SecondParagraph {
     font-family: 'Akaya Kanadaka', sans-serif, Arial, Helvetica, sans-serif;
@@ -22,5 +27,27 @@ em, strong{
 #ExternLink strong {
     text-decoration: none;
     
+}
+
+#Unorderedlist{
+    line-height: 40px;
+}
+
+#Unorderedlist :nth-of-type(1){
+    font-size: 20px;
+}
+
+#Unorderedlist :nth-of-type(2){
+    font-size: 25px;
+
+}
+
+#Unorderedlist :nth-of-type(3){
+    font-size: 35px;
+
+}
+
+#Unorderedlist :nth-of-type(4){
+    font-size: 30px;
 }
 
