@@ -5,6 +5,11 @@ img{
     border-radius: 30%;
     
 }
-a {
+#InternalLink {
     text-decoration: none;
+    margin-left: 18px;
+    margin-top: 80%;
+    position: absolute;
+    padding-bottom: 50px;
+    
 }
