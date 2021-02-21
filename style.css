@@ -1,5 +1,5 @@
 body{
-    background-image: url(/imgs/Pics\ Photos\ \ \ Background\ Color.jpg);
+   background-color: #9A9B73;
 }
 
 img{
@@ -12,6 +12,6 @@ h1{
 }
 
 #SecondParagraph{
-    font-family: Akaya Kanadaka;
+    font-family: 'Akaya Kanadaka', sans-serif, Arial, Helvetica, sans-serif;
     
 }
