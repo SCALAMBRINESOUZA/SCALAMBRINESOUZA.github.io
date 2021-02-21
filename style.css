@@ -1,8 +1,17 @@
 body{
     background-image: url(/imgs/Pics\ Photos\ \ \ Background\ Color.jpg);
 }
+
 img{
     border-radius: 30%;
     
+}
+
+h1{
+    font-family: 'DotGothic16', sans-serif;;
+}
+
+#SecondParagraph{
+    font-family: Akaya Kanadaka;
     
 }
