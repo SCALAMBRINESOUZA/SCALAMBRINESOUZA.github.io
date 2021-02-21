@@ -11,7 +11,16 @@ h1{
     font-family: 'DotGothic16', sans-serif;;
 }
 
-#SecondParagraph{
+
+#SecondParagraph {
     font-family: 'Akaya Kanadaka', sans-serif, Arial, Helvetica, sans-serif;
     
 }
+em, strong{
+    text-decoration: blue line-through;
+}
+#ExternLink strong {
+    text-decoration: none;
+    
+}
+
