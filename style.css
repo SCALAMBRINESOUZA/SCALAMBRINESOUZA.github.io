@@ -14,6 +14,8 @@ body{
 
 h1{
     font-family: 'DotGothic16', sans-serif;;
+    color: #ACECA1;
+    font-size: 50px;
 }
 
 a {
@@ -37,10 +39,11 @@ a {
     max-width: 480px;
     max-height: 120px;
     padding: 15px;
-    margin-left: 820px;
+    margin-left: 20px;
     background-color:olivedrab;
     color: cornsilk;
-    
+    font-family: cursive;
+    font-size: 30px;
 }
 
 em, strong{
@@ -53,6 +56,8 @@ em, strong{
 
 #Unorderedlist{
     line-height: 40px;
+    margin-left: 700px;
+    margin-top: -180px;
 }
 
 #Unorderedlist :nth-of-type(1){
@@ -81,7 +86,7 @@ em, strong{
 .description{
     width: 540px;
     margin-left: 600px;
-    top: 178px;
+    top: 228px;
     position: absolute;
     border-style: dashed ;
     
