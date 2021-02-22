@@ -31,6 +31,18 @@ a {
     font-size: 30px;
     
 }
+
+#SecondParagraph{
+    overflow:scroll;
+    max-width: 480px;
+    max-height: 120px;
+    padding: 15px;
+    margin-left: 820px;
+    background-color:olivedrab;
+    color: cornsilk;
+    
+}
+
 em, strong{
     text-decoration: blue line-through;
 }
