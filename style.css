@@ -21,11 +21,6 @@ div{
     font-size: 25px;
 }
 
-#menu {
-    padding: 150px;
-    margin-left: 850px;   
-}
-
 h1{
     color: white;
 }
@@ -38,6 +33,37 @@ p{
     color: white;
 }
 
- a:first-of-type{
-    width: 200px;
+#menu {
+    margin-top: 5px;
+    display: inline;
+    left: 10px;
+    font-size: 40px;
+    padding: 20px;
+    background-color: bisque px;
+    padding-left: 30px;
+    color: cadetblue;
+    position: fixed;
+}
+
+#home {
+    padding: 20px;  
+}
+
+#about {
+    padding: 20px;  
+    margin-left: 200px;
+}
+
+#project {
+    padding: 20px;
+    margin-left: 350px;
+    text-decoration: none;
+}
+
+#menu #project  a:hover {
+    padding: 20px;
+    margin-left: 350px;
+    background-color: cyan;
+    color: white;
+    transition: 5s;
 }
