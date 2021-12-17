@@ -37,3 +37,7 @@ h2{
 p{
     color: white;
 }
+
+ a:first-of-type{
+    width: 200px;
+}
