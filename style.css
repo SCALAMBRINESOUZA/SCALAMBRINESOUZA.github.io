@@ -39,20 +39,27 @@ p{
     display: inline;
     left: 10px;
     font-size: 40px;
-    padding: 20px;
+    padding: 10px;
     background-color: bisque px;
     padding-left: 30px;
     color: cadetblue;
     position: fixed;
 }
 
+#menu ul li {
+    display: inline-block;
+    margin-left: 40px;
+}
+
 #home {
     padding: 20px;  
+    text-decoration: none;
 }
 
 #about {
     padding: 20px;  
     margin-left: 200px;
+    text-decoration: none
 }
 
 #project {
@@ -61,9 +68,7 @@ p{
     text-decoration: none;
 }
 
-#menu #project  a:hover {
-    padding: 20px;
-    margin-left: 350px;
+a:hover {
     background-color: cyan;
     color: white;
     transition: 5s;
