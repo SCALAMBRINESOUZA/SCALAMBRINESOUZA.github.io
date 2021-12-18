@@ -3,14 +3,15 @@
     width: 250px;
     height: auto;
     border-radius: 160px;
-    position: absolute;
+    position: fixed;
     margin-top: 200px;
     margin-left: 850px;
 }
 
 #photoBg {
-    position: fixed;
+    position: absolute;
     opacity: 0.4;
+    z-index: -2
     
 }
 
